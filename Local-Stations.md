@@ -213,8 +213,8 @@ Most streams are in m3u8 format, streams labled (MPEGTS) are in MPEGTS.
 - [San Antonio NBC](https://fl1.moveonjoy.com/TX_San_Antonio_NBC/index.m3u8)
 
 ### Virginia
-[Richmond NBC](http://fl1.moveonjoy.com/VA_Richmond_NBC/mpegts) (MPEGTS)
-[Roanoke FOX](http://fl1.moveonjoy.com/VA_Roanoke_FOX/mpegts) (MPEGTS)
+- [Richmond NBC](http://fl1.moveonjoy.com/VA_Richmond_NBC/mpegts) (MPEGTS)
+- [Roanoke FOX](http://fl1.moveonjoy.com/VA_Roanoke_FOX/mpegts) (MPEGTS)
 
 ### Washington
 - [SEATLE FOX](http://fl1.moveonjoy.com/WA_SEATTLE_FOX/index.m3u8)
