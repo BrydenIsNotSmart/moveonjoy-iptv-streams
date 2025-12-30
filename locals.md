@@ -1,17 +1,120 @@
 # Local TV Stations
-http://fl7.moveonjoy.com/WGN/index.m3u8 WGN 9
-## Azizona
-```
-https://fl1.moveonjoy.com/AZ_PHOENIX_ABC/index.m3u8 Phoenix ABC
-https://fl1.moveonjoy.com/AZ_PHOENIX_FOX/index.m3u8 Phoenix FOX
-```
+
+## Washington D.C.
+- [Washington D.C. ABC](https://fl1.moveonjoy.com/DC_WASHINGTON_ABC/index.m3u8)
+- [Washington D.C. CBS](https://fl1.moveonjoy.com/DC_WASHINGTON_CBS/index.m3u8)
+- [Washington D.C. FOX](https://fl1.moveonjoy.com/DC_WASHINGTON_FOX/index.m3u8)
+- [Washington D.C. NBC](https://fl1.moveonjoy.com/DC_WASHINGTON_NBC/index.m3u8)
+
+## Alabama
+- [Dothan ABC](http://fl1.moveonjoy.com/AL_DOTHAN_ABC/index.m3u8)
+- [Dothan CBS](http://fl1.moveonjoy.com/AL_DOTHAN_CBS/index.m3u8)
+- [Dothan NBC](http://fl1.moveonjoy.com/AL_DOTHAN_NBC/index.m3u8)
+- [Dothan FOX](http://fl1.moveonjoy.com/AL_DOTHAN_FOX/index.m3u8)
+- [Birmingham ABC](http://fl1.moveonjoy.com/AL_BIRMINGHAM_ABC/index.m3u8)
+- [Birmingham NBC](http://fl1.moveonjoy.com/AL_Birmingham_NBC/index.m3u8)
+- [Birmingham FOX](http://fl1.moveonjoy.com/AL_BIRMINGHAM_FOX/index.m3u8)
+
+## Arizona
+- [Phoenix ABC](https://fl1.moveonjoy.com/AZ_PHOENIX_ABC/index.m3u8)
+- [Phoenix FOX](https://fl1.moveonjoy.com/AZ_PHOENIX_FOX/index.m3u8)
+
 ## California
-```
-https://fl1.moveonjoy.com/CA_FRESNO_CBS/index.m3u8 Fresno CBS
-https://fl1.moveonjoy.com/CA_FRESNO_NBC/index.m3u8 Fresno NBC
-https://fl1.moveonjoy.com/CA_LOS_ANGELES_ABC/index.m3u8 Los Angeles ABC
-https://fl1.moveonjoy.com/CA_SACRAMENTO_ABC/index.m3u8 Sacramento ABC
-https://fl1.moveonjoy.com/CA_SACRAMENTO_FOX/index.m3u8 Sacramento FOX
-https://fl1.moveonjoy.com/CA_SACRAMENTO_NBC/index.m3u8 Sacramento NBC
-https://fl1.moveonjoy.com/CA_SAN_FRANCISCO_CBS/index.m3u8 San Francisco CBS
-```
+- [Fresno CBS](https://fl1.moveonjoy.com/CA_FRESNO_CBS/index.m3u8)
+- [Fresno NBC](https://fl1.moveonjoy.com/CA_FRESNO_NBC/index.m3u8)
+- [Los Angeles ABC](https://fl1.moveonjoy.com/CA_LOS_ANGELES_ABC/index.m3u8)
+- [Los Angeles CBS](https://fl1.moveonjoy.com/CA_Los_Angeles_CBS/index.m3u8)
+- [Sacramento ABC](https://fl1.moveonjoy.com/CA_SACRAMENTO_ABC/index.m3u8)
+- [Sacramento FOX](https://fl1.moveonjoy.com/CA_SACRAMENTO_FOX/index.m3u8)
+- [Sacramento NBC](https://fl1.moveonjoy.com/CA_SACRAMENTO_NBC/index.m3u8)
+- [San Francisco CBS](https://fl1.moveonjoy.com/CA_SAN_FRANCISCO_CBS/index.m3u8)
+
+## Colorado
+- [Denver CBS](https://fl1.moveonjoy.com/CO_DENVER_CBS/index.m3u8)
+- [Denver FOX](https://fl1.moveonjoy.com/CO_Denver_FOX/index.m3u8)
+- [Denver NBC](https://fl1.moveonjoy.com/CO_Denver_NBC/index.m3u8)
+
+## Florida
+- [Miami ABC](https://fl1.moveonjoy.com/FL_MIAMI_ABC/index.m3u8)
+- [Miami CBS](https://fl1.moveonjoy.com/FL_Miami_CBS/index.m3u8)
+- [Miami FOX](https://fl1.moveonjoy.com/FL_Miami_FOX/index.m3u8)
+- [Miami NBC](https://fl1.moveonjoy.com/FL_Miami_NBC/index.m3u8)
+- [Orlando ABC](https://fl1.moveonjoy.com/FL_ORLANDO_ABC/index.m3u8)
+- [Orlando CBS](https://fl1.moveonjoy.com/FL_ORLANDO_CBS/index.m3u8)
+- [Orlando FOX](https://fl1.moveonjoy.com/FL_ORLANDO_FOX/index.m3u8)
+- [Orlando CW](https://fl1.moveonjoy.com/CW_ORLANDO/index.m3u8)
+
+## Georgia
+- [Atlanta CBS](https://fl1.moveonjoy.com/GA_ATLANTA_CBS/index.m3u8)
+- [Atlanta NBC](https://fl1.moveonjoy.com/GA_ATLANTA_NBC/index.m3u8)
+- [Atlanta FOX](https://fl1.moveonjoy.com/GA_Atlanta_FOX/index.m3u8)
+
+## Illinois
+- [Chicago ABC](https://fl1.moveonjoy.com/IL_CHICAGO_ABC/index.m3u8)
+- [Chicago CBS](https://fl1.moveonjoy.com/IL_Chicago_CBS/index.m3u8)
+- [Chicago FOX](https://fl1.moveonjoy.com/IL_Chicago_FOX/index.m3u8)
+- [Chicago NBC](https://fl1.moveonjoy.com/IL_Chicago_NBC/index.m3u8)
+
+## Louisiana
+- [Baton Rouge CBS](https://fl1.moveonjoy.com/LA_BATON_ROUGE_CBS/index.m3u8)
+- [Baton Rouge FOX](https://fl1.moveonjoy.com/LA_BATON_ROUGE_FOX/index.m3u8)
+- [Baton Rouge NBC](https://fl1.moveonjoy.com/LA_BATON_ROUGE_NBC/index.m3u8)
+- [New Orleans ABC](https://fl1.moveonjoy.com/LA_NEW_ORLEANS_ABC/index.m3u8)
+- [New Orleans CBS](https://fl1.moveonjoy.com/LA_NEW_ORLEANS_CBS/index.m3u8)
+- [New Orleans FOX](https://fl1.moveonjoy.com/LA_NEW_ORLEANS_FOX/index.m3u8)
+
+## Missouri
+- [Kansas City ABC](https://fl1.moveonjoy.com/MO_KANSAS_CITY_ABC/index.m3u8)
+- [Kansas City CBS](https://fl1.moveonjoy.com/MO_KANSAS_CITY_CBS/index.m3u8)
+- [Kansas City FOX](https://fl1.moveonjoy.com/MO_KANSAS_CITY_FOX/index.m3u8)
+- [Kansas City NBC](https://fl1.moveonjoy.com/MO_KANSAS_CITY_NBC/index.m3u8)
+- [St. Louis CBS](https://fl1.moveonjoy.com/MO_ST_LOUIS_CBS/index.m3u8)
+- [St. Louis FOX](https://fl1.moveonjoy.com/MO_ST_LOUIS_FOX/index.m3u8)
+- [St. Louis NBC](https://fl1.moveonjoy.com/MO_ST_LOUIS_NBC/index.m3u8)
+
+## Mississippi
+- [Jackson ABC](https://fl1.moveonjoy.com/MS_JACKSON_ABC/index.m3u8)
+- [Jackson CBS](https://fl1.moveonjoy.com/MS_JACKSON_CBS/index.m3u8)
+- [Jackson FOX](https://fl1.moveonjoy.com/MS_JACKSON_FOX/index.m3u8)
+- [Jackson NBC](https://fl1.moveonjoy.com/MS_JACKSON_NBC/index.m3u8)
+
+## Nevada
+- [Las Vegas FOX](https://fl1.moveonjoy.com/NV_LAS_VEGAS_FOX/index.m3u8)
+- [Las Vegas NBC](https://fl1.moveonjoy.com/NV_LAS_VEGAS_NBC/index.m3u8)
+
+## New York
+- [New York ABC](https://fl1.moveonjoy.com/NY_NEW_YORK_ABC/index.m3u8)
+- [New York NBC](https://fl1.moveonjoy.com/NY_New_York_NBC/index.m3u8)
+
+## Pennsylvania
+- [Philadelphia ABC](https://fl1.moveonjoy.com/PA_PHILADELPHIA_ABC/index.m3u8)
+- [Philadelphia CBS](https://fl1.moveonjoy.com/PA_PHILADELPHIA_CBS/index.m3u8)
+- [Philadelphia FOX](https://fl1.moveonjoy.com/PA_PHILADELPHIA_FOX/index.m3u8)
+- [Philadelphia NBC](https://fl1.moveonjoy.com/PA_PHILADELPHIA_NBC/index.m3u8)
+
+## Tennessee
+- [Chattanooga CBS](https://fl1.moveonjoy.com/TN_CHATTANOOGA_CBS/index.m3u8)
+- [Chattanooga FOX](https://fl1.moveonjoy.com/TN_CHATTANOOGA_FOX/index.m3u8)
+- [Chattanooga NBC](https://fl1.moveonjoy.com/TN_CHATTANOOGA_NBC/index.m3u8)
+- [Knoxville FOX](https://fl1.moveonjoy.com/TN_Knoxville_FOX/index.m3u8)
+- [Knoxville NBC](https://fl1.moveonjoy.com/TN_Knoxville_NBC/index.m3u8)
+- [Memphis FOX](https://fl1.moveonjoy.com/TN_Memphis_FOX/index.m3u8)
+- [Memphis NBC](https://fl1.moveonjoy.com/TN_Memphis_NBC/index.m3u8)
+- [Nashville ABC](https://fl1.moveonjoy.com/TN_NASHVILLE_ABC/index.m3u8)
+- [Nashville FOX](https://fl1.moveonjoy.com/TN_Nashville_FOX/index.m3u8)
+- [Nashville NBC](https://fl1.moveonjoy.com/TN_Nashville_NBC/index.m3u8)
+
+## Texas
+- [Austin ABC](https://fl1.moveonjoy.com/TX_AUSTIN_ABC/index.m3u8)
+- [Austin FOX](https://fl1.moveonjoy.com/TX_AUSTIN_FOX/index.m3u8)
+- [Dallas ABC](https://fl1.moveonjoy.com/TX_DALLAS_ABC/index.m3u8)
+- [Dallas CBS](https://fl1.moveonjoy.com/TX_Dallas_CBS/index.m3u8)
+- [Dallas FOX](https://fl1.moveonjoy.com/TX_Dallas_FOX/index.m3u8)
+- [Dallas NBC](https://fl1.moveonjoy.com/TX_Dallas_NBC/index.m3u8)
+- [Houston ABC](https://fl1.moveonjoy.com/TX_HOUSTON_ABC/index.m3u8)
+- [Houston CBS](https://fl1.moveonjoy.com/TX_HOUSTON_CBS/index.m3u8)
+- [Houston FOX](https://fl1.moveonjoy.com/TX_Houston_FOX/index.m3u8)
+- [Houston NBC](https://fl1.moveonjoy.com/TX_Houston_NBC/index.m3u8)
+- [San Antonio ABC](https://fl1.moveonjoy.com/TX_SAN_ANTONIO_ABC/index.m3u8)
+- [San Antonio FOX](https://fl1.moveonjoy.com/TX_San_Antonio_FOX/index.m3u8)
+- [San Antonio NBC](https://fl1.moveonjoy.com/TX_San_Antonio_NBC/index.m3u8)
