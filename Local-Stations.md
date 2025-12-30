@@ -59,10 +59,15 @@ Most streams are in m3u8 format, streams labled (MPEGTS) are in MPEGTS.
 - [Jacksonville NBC](https://fl1.moveonjoy.com/FL_Jacksonville_NBC/index.m3u8)
 - [Tallahassee ABC](https://fl1.moveonjoy.com/FL_Tallahassee_ABC/index.m3u8)
 - [Tallahassee NBC](https://fl1.moveonjoy.com/FL_Tallahassee_NBC/index.m3u8)
+- [Tampa ABC](https://fl1.moveonjoy.com/FL_Tampa_ABC/index.m3u8)
+- [Tampa CW](https://fl1.moveonjoy.com/FL_Tampa_CW44/index.m3u8)
+- [Tampa NBC](https://fl1.moveonjoy.com/FL_Tampa_NBC/index.m3u8)
 - [Fort Myers CBS](http://fl1.moveonjoy.com/FL_FORT_MYERS_CBS/index.m3u8)
 - [Fort Myers NBC](http://fl1.moveonjoy.com/FL_FORT_MYERS_NBC/index.m3u8)
 - [Gainsville ABC](http://fl1.moveonjoy.com/FL_GAINESVILLE_ABC/index.m3u8)
 - [Gainsville NBC](http://fl1.moveonjoy.com/FL_Gainesville_NBC/index.m3u8)
+- [West Palm Beach CBS](https://fl1.moveonjoy.com/FL_West_Palm_Beach_CBS/index.m3u8)
+- [West Palm Beach FOX](https://fl1.moveonjoy.com/FL_West_Palm_Beach_FOX/index.m3u8)
 
 ### Georgia
 - [Atlanta CBS](https://fl1.moveonjoy.com/GA_ATLANTA_CBS/index.m3u8)
