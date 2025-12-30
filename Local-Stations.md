@@ -30,6 +30,7 @@ Most streams are in m3u8 format, streams labled (MPEGTS) are in MPEGTS.
 - [Fresno NBC](https://fl1.moveonjoy.com/CA_FRESNO_NBC/index.m3u8)
 - [Los Angeles ABC](https://fl1.moveonjoy.com/CA_LOS_ANGELES_ABC/index.m3u8)
 - [Los Angeles CBS](https://fl1.moveonjoy.com/CA_Los_Angeles_CBS/index.m3u8)
+- [Los Angeles NBC](http://fl1.moveonjoy.com/CA_Los_Angeles_NBC/index.m3u8)
 - [Sacramento ABC](https://fl1.moveonjoy.com/CA_SACRAMENTO_ABC/index.m3u8)
 - [Sacramento FOX](https://fl1.moveonjoy.com/CA_SACRAMENTO_FOX/index.m3u8)
 - [Sacramento NBC](https://fl1.moveonjoy.com/CA_SACRAMENTO_NBC/index.m3u8)
@@ -119,6 +120,7 @@ Most streams are in m3u8 format, streams labled (MPEGTS) are in MPEGTS.
 - [Boston CBS](https://fl1.moveonjoy.com/MA_BOSTON_CBS/index.m3u8)
 - [Boston FOX](https://fl1.moveonjoy.com/MA_BOSTON_FOX/index.m3u8)
 - [Springfield CBS](http://fl1.moveonjoy.com/MA_SPRINGFIELD_CBS/index.m3u8)
+- [Springfield NBC](http://fl1.moveonjoy.com/MA_SPRINGFIELD_NBC/index.m3u8)
 
 ### Michigan
 - [Detroit ABC](https://fl1.moveonjoy.com/MI_DETROIT_ABC/index.m3u8)
@@ -157,7 +159,9 @@ Most streams are in m3u8 format, streams labled (MPEGTS) are in MPEGTS.
 
 ### New York
 - [New York ABC](https://fl1.moveonjoy.com/NY_NEW_YORK_ABC/index.m3u8)
+- [New York CBS](http://fl1.moveonjoy.com/NY_NEW_YORK_CBS/index.m3u8)
 - [New York NBC](https://fl1.moveonjoy.com/NY_New_York_NBC/index.m3u8)
+- [New York FOX](http://fl61.moveonjoy.com/NY_New_York_FOX/index.m3u8)
 - [Albany ABC](https://fl1.moveonjoy.com/NY_ALBANY_ABC/index.m3u8)
 - [Albany FOX](https://fl1.moveonjoy.com/NY_ALBANY_FOX/index.m3u8)
 - [Buffalo FOX](https://fl1.moveonjoy.com/NY_BUFFALO_FOX/mpegts) (MPEGTS)
