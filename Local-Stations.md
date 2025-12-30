@@ -87,6 +87,7 @@ Most streams are in m3u8 format, streams labled (MPEGTS) are in MPEGTS.
 - [Chicago CBS](https://fl1.moveonjoy.com/IL_Chicago_CBS/index.m3u8)
 - [Chicago FOX](https://fl1.moveonjoy.com/IL_Chicago_FOX/index.m3u8)
 - [Chicago NBC](https://fl1.moveonjoy.com/IL_Chicago_NBC/index.m3u8)
+- [Chicago CW](http://fl7.moveonjoy.com/WGN/index.m3u8)
 
 ### Indiana
 - [Fort Wayne NBC](http://fl1.moveonjoy.com/IN_Fort_Wayne_NBC/index.m3u8)
